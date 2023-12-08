@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Mybook"
+  title: "testbook"
   author: "Norah Jones"
   date: "12/8/2023"
   chapters:
